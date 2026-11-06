@@ -1,0 +1,6 @@
+{
+  "name": "git-graph",
+  "version": "0.1.0",
+  "description": "Sohbetin yanında bir git deposunun commit ağacını gösteren panel",
+  "types": "./types/index.d.ts"
+}
